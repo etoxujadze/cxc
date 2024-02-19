@@ -1,0 +1,59 @@
+@font-face {
+   font-family: "fonti";
+   src: url("Inter-VariableFont_slnt\,wght.ttf");
+}
+table, td, th, tr {
+    border-collapse: collapse ;
+    
+    
+
+}
+.col {
+    background-color: #dadada;
+    
+}
+.gaga {
+    text-align: left;
+    width: 1040px;
+    height: 613px;
+    font-family: "fonti";
+   
+    }
+ 
+ .colo {
+    background-color: #FFD43A;
+    width: 115px;
+    height: 25px;
+    text-align: center;
+    border:none;
+    
+ }
+ .ek {
+    color: red;
+    text-align: center;
+    font-size: 15px;
+   
+ }
+ .an {
+    text-align: center;
+
+ }
+ .ki {
+    text-align: center;
+ }
+ .ak {
+    text-align: center;
+    color:#000000;
+    width: 60px;
+ }
+ tr {
+   height: 57px;
+ }
+ th {
+   background-color: #F9F9F9;
+   border: 1px solid #DADADA;
+ }
+ td {
+   border: 1px solid #DADADA;
+ }
+    
